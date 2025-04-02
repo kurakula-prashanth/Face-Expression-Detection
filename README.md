@@ -1,5 +1,4 @@
 # Face-Expression-Detection
-# Facial Expression Recognition
 
 This project implements a deep learning model to detect and classify facial expressions into seven emotions: Angry, Disgust, Fear, Happy, Neutral, Sad, and Surprise.
 
@@ -75,7 +74,7 @@ facial-expression-recognition/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/kurakula-prashanth/face-expression-recognition.git
+   git clone https://github.com/kurakula-prashanth/face-expression-detection.git
    cd facial-expression-recognition
    ```
 
