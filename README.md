@@ -11,10 +11,9 @@ This project implements a deep learning model to detect and classify facial expr
 - [Usage](#usage)
 - [Model Architecture](#model-architecture)
 - [Training Process](#training-process)
-- [Results](#results)
 - [GUI Application](#gui-application)
 - [Future Improvements](#future-improvements)
-- [License](#license)
+- [Results](#results)
 
 ## Overview
 
@@ -168,8 +167,8 @@ The interface allows users to:
 - Model optimization for faster inference
 - Additional emotions or more granular emotion detection
 - Deployment as a web application
-  
-Results
+
+## Results
 ![image](https://github.com/kurakula-prashanth/Face-Expression-Detection/assets/144904506/336aff59-5765-4525-9e5d-404cfc550ce3)
 ![image](https://github.com/kurakula-prashanth/Face-Expression-Detection/assets/144904506/1b428546-76e2-4234-8ec4-c0fde0314156)
 ![image](https://github.com/kurakula-prashanth/Face-Expression-Detection/assets/144904506/7471af1e-8d2e-4736-b7a4-28ea5fa19f68)
